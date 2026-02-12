@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.id-card {
+  width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 3px solid #ccc;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 12px;
+}
+
+.container {
+  padding: 15px;
+  border: 2px solid #ccc;
+  background-color: #f0f0f0;
+  margin-bottom: 20px;
+  border-radius: 12px;
+}
+
+.image {
+  margin: 20px 0;
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+.paragraph {
+  text-align: center;
+}
+
+.copy {
+  margin-top: 20px;
+  font-size: 14px;
+}
