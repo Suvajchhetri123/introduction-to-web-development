@@ -15,7 +15,12 @@
 
 .image {
   margin: 20px 0;
+  width: 100%;
 }
+
+img{
+    width: 100%;
+} 
 
 .paragraph {
   text-align: center;
